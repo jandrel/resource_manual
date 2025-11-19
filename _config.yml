@@ -8,6 +8,9 @@ aux_links:
   #Template Repository: https://github.com/Global-DH-Symposium-Documentation/resource_manual
   Global DH Symposium: https://msuglobaldh.org/
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: dark
 

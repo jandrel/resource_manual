@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 In 2025, MSU Global DH Symposium celebrated its 10th anniversary. This website and resource manual emerged from conversations around preserving the symposium's institutional memory and ensuring its continuity. We also wanted to share our learning and know-how in organizing a truly global digital humanities symposium that actively centers marginalized communities in this field.
