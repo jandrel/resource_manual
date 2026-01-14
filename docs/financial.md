@@ -1,5 +1,5 @@
 ---
-title: Financial Aspects
+title: Budget and Sponsorship
 layout: default
 nav_order: 8
 ---
